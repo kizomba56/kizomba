@@ -62,12 +62,6 @@
 </item>
 
 <item>
-<title>[COLOR palevioletred][COLOR palevioletred][I][B]TDTChannels[/I][/B][/COLOR]</title>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/fe/Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png</thumbnail>
-<externallink></externallink>
-</item>
-
-<item>
 <title>[COLOR pink][COLOR lime][I][B]Musica Youtube[/I][/B][/COLOR]</title>
 <thumbnail>http://download.seaicons.com/download/i32474/tribalmarkings/colorflow/tribalmarkings-colorflow-youtube.ico</thumbnail>
 <externallink>https://pastebin.com/raw/s6bqCFMR</externallink>
@@ -77,4 +71,10 @@
 <title>[COLOR orange][COLOR lime][I][B]Musica_Kizoma_Semba_Zouk_Pop[/I][/B][/COLOR]</title>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/originals/9d/21/8e/9d218e38009468eb534bc8c8ec9e95e3.png</thumbnail>
 <externallink>https://pastebin.com/raw/i4xk1JKw</externallink>
+</item>
+
+<item>
+<title>[COLOR palevioletred][COLOR palevioletred][I][B]TDTChannels[/I][/B][/COLOR]</title>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/fe/Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png</thumbnail>
+<externallink></externallink>
 </item>
