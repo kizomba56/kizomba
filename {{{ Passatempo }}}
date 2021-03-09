@@ -6,11 +6,19 @@
 </item>
 
 <item>
-<title>[COLOR white][COLOR lime]•[/COLOR]RTP Macau</title>
-<link>http://live4.tdm.com.mo/ch2/_definst_//ch2.live/playlist.m3u8</link>
+<title>[COLOR white][COLOR lime]•[/COLOR]dailymotion</title>
+<link>https://www.dailymotion.com/embed/video/xnm032?autoplay=1</link>
 <thumbnail></thumbnail>
 </item>
 
+<item>
+<title>[COLOR white][COLOR lime]•[/COLOR]RTP Macau</title>
+<link>http://live4.tdm.com.mo/ch2/_definst_//ch2.live/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item
+
+
+https://www.dailymotion.com/embed/video/xnm032?autoplay=1
 <item>
 <title>[COLOR lime][COLOR lime][/COLOR]---- Noticias ----</title>
 <link>http://ignoreme</link>
